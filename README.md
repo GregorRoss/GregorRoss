@@ -20,6 +20,7 @@
 - 💞️ I’m looking to collaborate with the Scottish Tech Army to help people and increase my software skills in real environments that can help people.
   
 - 📫 How to reach me ...
-    [Email Gregor](mailto:gregor.home@btinternet.com)    [Linkedin](https://www.linkedin.com/in/gregor-ross)
+  [Email Gregor](mailto:gregor.home@btinternet.com)
+  [Linkedin Gregor](https://www.linkedin.com/in/gregor-ross)
 
 
