@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GregorRoss
-      ICT expert and junior software engineer.
+      software engineer with over 30 years experience in ICT
 
  - Currently searching for my first organisation to work with as a software engineer.
-     * [ ]Updating main github site
+     * [x]Updating main github site
      * [ ]redo git repo for solo project site
      * [ ]capstone project clone and add game element to it
      * [ ]Portfolio site make over, cards for experience and projects
